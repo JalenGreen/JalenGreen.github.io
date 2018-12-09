@@ -1,0 +1,75 @@
+/* Note to students: Some properties are given to you to fill out,
+others you can modify as they stand, and if you have time,
+there are definitely some properties you should add!*/
+/* add semi colon after each line of code to complete it */
+html {
+    height: 100%;
+    /* background-color: ; */
+    background-image: url("RollarCoasterGIF.gif");
+ }
+  body {
+     width: 800px;
+     height: 100%;
+     font-size: 
+  }
+  header {
+      background-color: #FF5FF9;
+      padding: 25px;
+      /* also can be bottom top left or right */
+      margin right: 30px;
+      /* can be bottom, top, left or right */
+      font-size: 35px;
+      border: 5px solid;
+      display: solid; 
+  }
+  p{color:white;
+  }
+  nav {
+      float: middle;
+      width: 100%;
+      color:white
+  }
+  nav ul {
+      padding: 1;
+      float: middle;
+      border-bottom: ;
+      list-style-type: none;
+      color: white
+  }
+  img {
+      width: 80%
+  }
+  nav li {
+      float: left;
+  }
+  nav li a {
+      display: block;
+      height: 25px;
+      padding: 12px 18px 8px 18px;
+      vertical-align: middle;
+  }
+  a {
+      color: rgb(163, 191, 223);
+  }
+  section {
+      width: 65%;
+      display: inline-block;
+      float: middle;
+  }
+  aside {
+      width: 25%;
+      display: inline-block;
+      background-color:green;
+      padding:;
+      min-height: 100%;
+  }
+  aside ul {
+      list-style-type: none;
+  }
+  footer {
+      width: 790px;
+      background-color:;
+      color:;
+      clear: both;
+      display: block;
+  }
